@@ -8,7 +8,7 @@ SignFlow Chatbot adalah asisten virtual cerdas berbasis AI yang dirancang untuk 
 
 ## ✨ Fitur Utama
 
-* **Respons Otomatis & Akurat:** Menjawab pertanyaan seputar pendaftaran ezSign, jenis akun, harga, dan tata cara tanda tangan (Single, Parallel, Hierarchy).
+* **Respons Otomatis & Akurat:** Menjawab pertanyaan seputar pendaftaran SignFlow, jenis akun, harga, dan tata cara tanda tangan (Single, Parallel, Hierarchy).
 * **Format Markdown:** Memberikan jawaban dalam bentuk poin-poin yang rapi dan mudah dibaca oleh pengguna.
 * **Integrasi Gemini AI:** Menggunakan SDK `@google/genai` terbaru untuk pemrosesan bahasa alami yang cepat dan kontekstual.
 * **RESTful API:** Endpoint backend yang mudah dihubungkan dengan *frontend* web atau aplikasi mobile.
