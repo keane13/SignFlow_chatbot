@@ -1,6 +1,6 @@
-# SignFlow Chatbot - ezSign Helpdesk AI 🤖✍️
+# SignFlow Chatbot -Helpdesk AI 🤖✍️
 
-SignFlow Chatbot adalah asisten virtual cerdas berbasis AI yang dirancang untuk menangani pertanyaan dukungan pelanggan (Helpdesk) untuk layanan **ezSign** (Penyedia Sertifikat Elektronik & Tanda Tangan Digital). Aplikasi ini dibangun menggunakan Node.js, Express, dan ditenagai oleh model Google Gemini AI terbaru.
+SignFlow Chatbot adalah asisten virtual cerdas berbasis AI yang dirancang untuk menangani pertanyaan dukungan pelanggan (Helpdesk) untuk layanan (Penyedia Sertifikat Elektronik & Tanda Tangan Digital). Aplikasi ini dibangun menggunakan Node.js, Express, dan ditenagai oleh model Google Gemini AI terbaru.
 
 ## 📸 Tampilan Chatbot
 
