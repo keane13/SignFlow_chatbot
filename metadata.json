@@ -1,0 +1,8 @@
+{
+  "name": "ezSign AI Assistant & Portal",
+  "description": "A comprehensive digital signature platform with an AI-powered assistant for document management, e-Meterai, and Google Workspace integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
